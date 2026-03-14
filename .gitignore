@@ -1,0 +1,5 @@
+data/
+*.pth
+*.bin
+__pycache__/
+venv/
